@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "buildDate": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/fff233yfyf/manju-canvas/main/canvas-2.1.0.zip",
-  "notes": "试用期内买卡不浪费剩余天数；修国内 fetch failed"
+  "url": "https://raw.githubusercontent.com/fff233yfyf/manju-canvas/main/canvas-2.1.1.zip",
+  "notes": "2.1.1：试用期内买卡不浪费天数；地址自动回退"
 }
