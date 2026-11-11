@@ -2,5 +2,5 @@
   "version": "2.1.0",
   "buildDate": "2026-11-11",
   "url": "https://raw.githubusercontent.com/fff233yfyf/manju-canvas/main/canvas-2.1.0.zip",
-  "notes": "试用期内买卡不浪费剩余天数（订单带试用到期，发卡台自动从那天算）"
+  "notes": "试用期内买卡不浪费剩余天数；修国内 fetch failed"
 }
