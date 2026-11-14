@@ -1,6 +1,13 @@
 {
-  "version": "2.1.3",
-  "buildDate": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/fff233yfyf/manju-canvas/main/canvas-2.1.3.zip",
-  "notes": "2.1.3：BOM 容错"
+  "product": "doubao-2fast-canvas",
+  "releaseLine": 2,
+  "version": "2.99.0",
+  "buildDate": "2026-11-14",
+  "url": "https://manju-canvas-1529990555.cos.ap-guangzhou.myqcloud.com/canvas-1.0.2.zip",
+  "sha256": "c7a962b2d3a15937359f2c8a75afd31ab61552241c796eb052487b0e41e28fee",
+  "notes": "旧 2.x 用户迁移到 1.0.2；本次仅用于恢复正确发行线",
+  "migration": {
+    "targetVersion": "1.0.2",
+    "reason": "旧 2.x 升级号迁回 1.x 发行线"
+  }
 }
